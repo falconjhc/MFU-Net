@@ -19,7 +19,7 @@ To define a new data loader, extend class `base_loader.Loader`, and register the
 
 To run an experiment, execute `experiment.py`, passing the configuration filename, the split number as runtime parameters, and the testmode:
 ```
---test True --config unet_multi_modal_cardiac --split 0 --testmode feature-concat-attention-maxfuseall-keeporg
+ --config unet_multi_modal_cardiac --split 0 --testmode feature-concat-attention-maxfuseall-keeporg
 ```
 
 The test mode is defined as follows:
