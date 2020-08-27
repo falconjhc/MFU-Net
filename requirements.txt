@@ -1,0 +1,52 @@
+absl-py==0.2.2
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+bleach==1.5.0
+certifi==2020.6.20
+cycler==0.10.0
+Cython==0.29.21
+decorator==4.1.2
+easydict==1.9
+enum34==1.1.10
+gast==0.3.3
+grpcio @ file:///Users/runner/miniforge3/conda-bld/grpcio_1592839949038/work
+h5py @ file:///Users/runner/miniforge3/conda-bld/h5py_1593217422486/work
+html5lib==0.9999999
+imageio==2.9.0
+imgaug==0.2.6
+importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1593211385768/work
+Keras==2.1.6
+Keras-Applications==1.0.2
+keras-contrib @ git+https://www.github.com/keras-team/keras-contrib.git@3fc5ef709e061416f4bc8a92ca3750c824b5d2b0
+Keras-Preprocessing==1.0.1
+Mako==1.1.0
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
+MarkupSafe==1.1.1
+matplotlib==2.0.2
+mock==2.0.0
+networkx==1.11
+nibabel==3.1.1
+numpy==1.14.4
+olefile==0.44
+opencv-python-headless==4.1.0.25
+packaging==20.4
+pbr==5.4.5
+Pillow==4.2.1
+protobuf==3.6.1
+pydensecrf @ git+https://github.com/lucasb-eyer/pydensecrf.git@4d5343c398d75d7ebae34f51a47769084ba3a613
+pygpu==0.7.6
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.2
+PyWavelets==0.5.2
+PyYAML==5.3.1
+scikit-image==0.13.0
+scipy==0.19.1
+six==1.12.0
+tensorboard==1.7.0
+tensorflow==1.4.1
+tensorflow-estimator==1.13.0
+tensorflow-tensorboard==0.4.0
+termcolor==1.1.0
+Theano==1.0.3
+Werkzeug==1.0.1
+zipp==3.1.0
