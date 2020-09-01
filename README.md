@@ -1,6 +1,6 @@
 # Max Fusion U-Net (MFU-Net) for multi-modal cardiac anatomy and pathology segmentation
 
-Implementation of the **NFU-Net** model to perform multi-modal caridac anatomy and pathology segmentation. For further details please see our [paper], accepted in [MICCAI-2020 Workshop: MyoPS-20].
+Implementation of the **MFU-Net** model to perform multi-modal caridac anatomy and pathology segmentation. For further details please see our [paper], accepted in [MICCAI-2020 Workshop: MyoPS-20].
 
 Python dependencies to run the code is listed in the file 'requirements.txt'.
 
